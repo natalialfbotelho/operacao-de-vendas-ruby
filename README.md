@@ -3,7 +3,7 @@
 </h3>
 
 <p  align="center">
- ![](https://img.shields.io/badge/ruby-v.3.0.0-red.svg)
+- ![](https://img.shields.io/badge/ruby-v.3.0.0-red.svg)
 </p>
 
 🎨 Autora: [Natalia Luiza Freire Botelho](https://github.com/natalialfbotelho)<br>
