@@ -12,7 +12,7 @@
 # Descrição 🚀
 ### Aplicação console que auxilia em operações de venda, calculando os valores totais a partir da porcentagem de desconto aplicada
 
-<iframe src='//gifs.com/embed/operacao-de-vendas-ruby-81P5WL' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+![caption](https://gifs.com/gif/operacao-de-vendas-ruby-81P5WL)
 
 ## ⚙️ Funcionalidades
 - [x] Produtos do pedido
