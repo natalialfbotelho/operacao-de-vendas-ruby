@@ -12,7 +12,7 @@
 # Descrição 🚀
 ### Aplicação console que auxilia em operações de venda, calculando os valores totais a partir da porcentagem de desconto aplicada
 
-![caption](https://gifs.com/gif/operacao-de-vendas-ruby-81P5WL)
+![caption](https://j.gifs.com/81P5WL.gif)
 
 ## ⚙️ Funcionalidades
 - [x] Produtos do pedido
