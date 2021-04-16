@@ -30,7 +30,6 @@ Linguagem de programação para desenvolvimento da aplicação<br>
 ## Como utilizar
 ### Pré requisitos
 - Instalar o [Ruby](https://www.ruby-lang.org/pt/documentation/installation/)
-https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
 
 - Clonando o projeto
  ```bash
@@ -40,6 +39,11 @@ git clone https://github.com/natalialfbotelho/operacao-de-vendas-ruby
 - Entrando na pasta do projeto
  ```bash
 cd operacao-de-vendas-ruby
+ ```
+
+- Rodando o projeto
+ ```bash
+ruby seu-joao.rb
  ```
 
 ---
