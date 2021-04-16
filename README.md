@@ -1,2 +1,1 @@
-# operacao-de-vendas-ruby
-Sistema console para auxiliar em operações de venda com Ruby.
+![](https://img.shields.io/badge/ruby-v.3.0.0-red.svg)
