@@ -1,6 +1,5 @@
-<h3  align="center">
+
  ## :wrench: Sistema auxiliar de operações de vendas :wrench:
-</h3>
 
 ![](https://img.shields.io/badge/ruby-v.3.0.0-red.svg)
 
